@@ -4,7 +4,7 @@ Luthiery and Musical Projects blog
 
 ## Overview
 
-This is my blog site done using the following tech:
+A blog site done using the following tech:
 
 * hugo
 * github actions
