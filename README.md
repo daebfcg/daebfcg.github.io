@@ -19,6 +19,8 @@ A blog site done using the following tech:
 
 ## Development
 
+First time cloning, run `git submodule update --init`.
+
 You can use the custom dev container that exists in order to run this site locally.
 From within the devcontainer terminal just run the following:
 
