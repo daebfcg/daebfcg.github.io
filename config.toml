@@ -6,10 +6,12 @@ author = "David Martines"
 enableGitInfo = true
 enableEmoji = true
 pluralizelisttitles = false
+hasCJKLanguage = false
 
 [params]
 brand = "DAEBFCG" # name of your site - appears in the sidebar
 description = "Luthiery and Musical Projects"
+useChineseFonts = false 
 
 [menu]
 # Shown in the side menu.
