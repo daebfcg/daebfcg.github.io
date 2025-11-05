@@ -33,7 +33,7 @@ No "middle" pickup.  The plan is to use 2 Seymour Duncan Quarter Pound Strat pic
 This is based loosely on a strat, but is more in the 80's "super strat" vein with sharper horns.  I've also narrowed the mid-section a bit, inspired by the early 70's Kay strat knockoff guitars.
 
 ### Chambered Body
-So it won't actually be a fully solid body. To cut down on weight, as well as give some extra airy resonance, The body will have 2 large empty chambers.  The chamber on the right side will conveniently house the electronics.
+So it won't actually be a fully solid body. To cut down on weight, as well as give some extra airy resonance, the body will have 2 large empty chambers.  The chamber on the right side will conveniently house the electronics.
 
 ### Plans
 As with all my guitar builds, I first start with a full-size drawing using Libre Office Draw.  From this, I print out cardstock templates.
