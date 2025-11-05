@@ -32,6 +32,7 @@ To place the images on the page, use this shortcode:
 {{<imgresize filename.png "800x800" "alt text here">}}
 ```
 
+In general, use 800 for horizontals and 600 for verticals.
 
 ## Other static images
 
