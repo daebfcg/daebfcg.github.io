@@ -22,7 +22,7 @@ I use Libre Office Draw and it has poor tiling capabilities.  So I need to use t
 
 Now to make the routing template, I transfered the cardstock template onto some Ramboard I had leftover from the my kitchen floor project.  This stuff is great for other uses like this.
 
-The I used spray adhesive to attach it to the 12 x 16 acrylic sheet.  Got two of these from amazon for about $15.
+Then I used spray adhesive to attach it to the 12 x 16 acrylic sheet.  Got two of these from amazon for about $15.
 
 {{<imgresize template-acrylic-1.jpg "800x800" "Acrylic routing template 1">}}
 

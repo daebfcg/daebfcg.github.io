@@ -3,7 +3,7 @@ title: "Laminating the Neck"
 date: "2025-11-04T13:52:18Z"
 cover: ""
 tags: []
-series: []
+series: ["Electric Guitar Build 2025-2026"]
 keywords: []
 description: "Three-Ply Cherry/Walnut/Cherry Neck glue-up"
 showFullContent: false

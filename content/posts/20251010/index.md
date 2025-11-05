@@ -17,7 +17,7 @@ For my next guitar project I'll be building a solid-body electric guitar from sc
 
 I'm building off this basic Strat type guitar design with a couple of customizations.
 
-{{<imgresize ElectricGuitar.png "800x800" "Plans">}}
+{{<imgresize ElectricGuitar.jpg "800x800" "Plans">}}
 
 
 ### Multi Scale
