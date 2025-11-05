@@ -27,6 +27,8 @@ The two screws are used to keep the pieces in place while gluing. They are strat
 
 {{<imgresize neck-rough.jpg "800x800" "Rough neck glued up">}}
 
-Just to show you what this thing is and how it fits into the overall build, here is the simulated drawing of the full neck through guitar.
+Just to show you what this thing is and how it fits into the overall build, here is the simulated drawing of the full neck-through guitar.  This makes up the "core" of the guitar.
 
 {{<imgresize drawing.jpg "800x800" "Neck-through drawing">}}
+
+(The core extends all the way up through the headstock, but it is covered up in this drawing.)
