@@ -11,6 +11,8 @@ readingTime: false
 draft: false
 ---
 
+{{<imgresize woodstack.jpg "600x600" "Woodstack">}}
+
 This will be another "Local Woods" guitar with all species of wood used being native to North America, and some locally harvested from Alabama.
 
 ### Neck / Cental Core
