@@ -2,7 +2,7 @@
 title: "Truss Rod Channels"
 date: "2025-11-07T14:27:28Z"
 cover: ""
-tags: []
+tags: ["neck", "truss rod"]
 series: ["Electric Guitar Build 2025-2026"]
 keywords: []
 description: "Routing the channels for the truss rod and carbon fiber bars"
