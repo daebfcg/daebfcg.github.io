@@ -1,2 +1,5 @@
 resources/_gen/
 public/
+
+# full size photos from phone
+PXL_*.jpg

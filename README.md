@@ -21,13 +21,14 @@ This will create new folder for the page bundle with an index.md.  Edit the inde
 ### Pictures
 Put any pictures for the post directly into this new post folder.
 
-If they are straight off the camera, rename them now and run this to scale them down to reasonable file size:
+If they are straight off the phone run this to scale them down to reasonable file size:
 
 ```sh
-find . -maxdepth 1 -iname "*.jpg" -exec convert -resize 50% {} {} \;
+find . -maxdepth 1 -iname "PXL_*.jpg" -exec convert -set filename:f '%t' -resize 50% {} ./web_%[filename:f].jpg \;
 ```
 
-To place the images on the page, use this shortcode:
+Then rename the `web_` photos as desired and place thm on the page using this shortcode:
+
 ```
 {{<imgresize filename.png "800x800" "alt text here">}}
 ```
