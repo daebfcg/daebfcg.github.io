@@ -8,18 +8,19 @@ keywords: []
 description: "Adding width to the neck for the headstock"
 showFullContent: false
 readingTime: false
-draft: true
+draft: false
 ---
 
-It is time to add the ears.
+Time to add the ears.
 
-Note that the headstock is wider than the core beam, so I will need to add some wood to the sides to accommodate the extra width.  The technical term for these additional pieces of wood is the "ears".
+Note that the headstock template is wider than the neck, so some wood will need to be added to the sides to accommodate the extra width.  The technical term for these additional pieces of wood is the "ears".
 
--pic-
+{{<imgresize headstock1.jpg "800x800" "headstock before">}}
 
 Fortunately there is some excess wood at the end which will fit nicely and also match in appearance.  Just need to cut those out, flip around, and glue into place.
 
+{{<imgresize headstock_glued.jpg "800x800" "headstock glued up">}}
+
 Now there is enough width to cut out the headstock shape.  I will now be working on getting the headstock mostly done, since trying to do this once the body is attached would be awkward.
 
-
--pic-
+{{<imgresize headstock2.jpg "800x800" "headstock after">}}
