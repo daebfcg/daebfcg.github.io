@@ -43,7 +43,7 @@ The body shape is roughly based on the Kay Thin Twin Jimmy Reed guitar.
 
 ## Construction Photos
 
-Here the secret of the horizontal sound block is revealed.  I put my custom spin on it, by notching out the ends. The though is that a little less mass towards the edge will help the top resonate more, possibly.  I did not need to angle it so much.
+Here the secret of the horizontal sound block is revealed.  I put my custom spin on it, by notching out the ends. The thought is that a little less mass towards the edge will help the top resonate more, possibly.  I did not need to angle it so much.
 
 {{<imgresize inside.jpg "800x800" "Super K inside">}}
 
@@ -80,5 +80,5 @@ Here the secret of the horizontal sound block is revealed.  I put my custom spin
 
 ### Notes
 
-- One odd thing about this guitar is that it has no sound holes.  I copied the Value Leader in this respect.  However, I found is sounds quite a bit better (clearer mids) with the back control plate removed.  It must need _some_ sound hole for good Helmoltz resonance.  The next one will have side sound ports.
+- One odd thing about this guitar is that it has no sound holes.  I copied the Value Leader in this respect.  However, I found is sounds quite a bit better (clearer mids, more high end) with the back control plate removed.  It must need _some_ sound hole for good Helmholtz resonance.  The next one will have side sound ports.
 - I would like to make my own wood knobs someday.
