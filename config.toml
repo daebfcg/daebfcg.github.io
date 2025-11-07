@@ -29,10 +29,10 @@ useChineseFonts = false
     name = "Tags"
     url = "/tags/"
     weight = 1
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
+  # [[menu.main]]
+  #   name = "About"
+  #   url = "/about/"
+  #   weight = 2
 
 # Links to your socials.  Delete any you don't need/use.
 github_url = "https://github.com/davidwmartines"
