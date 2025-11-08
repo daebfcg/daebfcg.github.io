@@ -11,7 +11,7 @@ readingTime: false
 draft: false
 ---
 
-In in this step, the headstock is taken down to the final thickness according the the side profile of the template.  The bottom needs to be one inch down from the top face of the neck surface, and the top face cut down to the final thickness.
+In this step, the headstock is taken down to the final thickness according the the side profile of the template.  The bottom needs to be one inch down from the top face of the neck surface, and the top face cut down to the final thickness.
 
 {{<imgresize headstock-raw.jpg "800x800" "headstock rough">}}
 
