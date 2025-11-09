@@ -35,7 +35,7 @@ The maple piece should have enough length for three sections, although I only ne
 
 {{<imgresize bookmatch2.jpg "800x800" "bookmatching 2">}}
 
- I am a little annoyed that I did not plan for bookmatching the plates side by side on the finished guitar. But due to the fact the the left and right wings are different lengths, it would have meant resawing the entire board first which I am not sure I could have done. Instead, each bookmatched pair will be a top and back of a wing.  I am not too worried about it though.  It should still look great.  The tiger string figure should really pop once it is sanded smooth.
+ I am a little annoyed that I did not plan for bookmatching the plates side by side on the finished guitar. But due to the fact the the left and right wings are different lengths, it would have meant resawing the entire board first which I am not sure I could have done. Instead, each bookmatched pair will be a top and back of a wing.  I am not too worried about it though.  It should still look great.  The tiger-stripe figure should really pop once it is sanded smooth.
 
 {{<imgresize maple-wings.jpg "800x800" "maple body wings rough cut">}}
 
