@@ -41,4 +41,4 @@ The maple piece should have enough length for three sections, although I only ne
 
 The cherry board will yield the inner body sections that will be sandwiched between the maple plates.  I will cut out the cherry sections later.
 
- Since this was a success, I can now use the remaining third section of maple to get my headplate veneer slice and return focus to on the headstock.
+ Since this was a success, I can now use the remaining third section of maple to get my headplate veneer slice and return focus to the headstock.
