@@ -20,7 +20,7 @@ Some cold weather today so I am staying out of the shop and taking a closer look
 
 ### Pickup Selector Toggle
 
-This is a Les Paul style [three-position toggle](https://www.stewmac.com/electronics/components-and-parts/switches/axlabs-3-way-6-pole-toggle-switch/) for the neck pickup, bridge pickup, or both in series. Black.  I considered other options such as individual on/off switches for each pickup or a Telecaster-style blade pickup, but landed on the toggle with the idea that it is the most fool-proof way to easily flip while playing.  The exact placement will be determined once I actually try to play the guitar to see where my hand goes when moving my elbow to get it in just the right spot.  I will also angle switch movement so as not to make it _too_ easy to flip to avoid accidentally switching it during vigorous strumming.
+This is a Les Paul style [three-position toggle](https://www.stewmac.com/electronics/components-and-parts/switches/axlabs-3-way-6-pole-toggle-switch/) for the neck pickup, bridge pickup, or both in parallel. Black.  I considered other options such as individual on/off switches for each pickup or a Telecaster-style blade pickup, but landed on the toggle with the idea that it is the most fool-proof way to easily flip while playing.  The exact placement will be determined once I actually try to play the guitar to see where my hand goes when moving my elbow to get it in just the right spot.  I will also angle switch movement so as not to make it _too_ easy to flip to avoid accidentally switching it during vigorous strumming.
 
 ### Neck and Bridge Tap Switches
 
@@ -45,7 +45,7 @@ Basic volume control.  250k linear pot.  I prefer linear pots for volume, as opp
 
 ### Direct Out
 
-One last on/on toggle switch near the volume, which will bypass both the volume and tone from the circuit and send the pickup signal directly to the jack.  This is for an even more pure, raw signal unaffected by any pots or capacitors.   This can act as a mini "boost" effect during a performance.  Used this way, it is sometimes called a blower switch.  It might also be useful for recording, where all tone and volume is added during mixing and you want the purest and loudest signal to be recorded.
+One last on/on toggle switch near the volume, which will bypass both the volume and tone from the circuit and send the pickup signal directly to the jack.  This is for an even more pure, raw signal unaffected by any pots or capacitors.   This can act as a mini "boost" effect during a performance.  Used this way, it is sometimes called a blower switch.  It might also be useful for recording, where all tone and volume is controlled during mixing and you want the purest and loudest signal to be recorded.
 
 ### Jack
 
