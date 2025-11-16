@@ -11,15 +11,15 @@ readingTime: false
 draft: false
 ---
 
-The headplate on this guitar will be 1/8 inch thick made up of two layers of 1/16 inch veneers - walnut with curly-maple on top.  The first step is to slice out the veneers.  The curly maple is from the same board as the body of the guitar (recall the extra third section that was fortunately not needed) so should match nicely.
+The headplate on this guitar will be 1/8 inch thick made up of two layers of 1/16 inch veneers - walnut with curly-maple on top.  The first step is to slice out the veneers.  The curly-maple is from the same board as the body of the guitar (recall the extra third section that was fortunately not needed) so should match nicely.
 
 {{<imgresize headplate-veneers-rough.jpg "800x800" "Rough cut veneer sheets for the headstock">}}
 
 ## Thickness Sanding
 
-Next they are sanded down the close to their final thickness on the spindle sander.  
+Next they are sanded close to their final thickness on the spindle sander.  
 
-They are approximately  1/8 - 3/16 inch thick now, but need to be 1/16.
+They are approximately 3/16 inch thick now but need to be 1/16.
 
 {{<imgresize thinning-before.jpg "800x800" "Before thinning">}}
 
@@ -35,7 +35,7 @@ The final thickness comes after some more sanding with a random orbit sander, an
 
 After sanding, they total about 1/8 of an inch which is the target thickness of the headplate.
 
-{{<imgresize post-sanding.jpg "800x800" "Veneer paid sanded to overall final thickness">}}
+{{<imgresize post-sanding.jpg "800x800" "Veneer pair sanded to overall final thickness">}}
 
 ## Bending
 
@@ -52,7 +52,7 @@ Now they are thicknessed and bent and ready to glue down.
 
 ## Gluing
 
-Once correctly positioned, I use two small drill bits in the waste area to index the location and keep it from sliding around during gluing.
+Once correctly positioned, I use two small drill bits as index-pins in the waste areas to lock down the location and keep it from sliding around during gluing.
 
 {{<imgresize headplate-alignment.jpg "800x800" "Headplate veneer positioned and indexed">}}
 
