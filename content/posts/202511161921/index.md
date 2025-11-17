@@ -15,7 +15,7 @@ Here is a drawing of the planned wiring scheme.  This is not a true schematic, b
 
 This is also not laid out according to where the components will be on the guitar yet.  It is just to get an idea of the circuit and the connections.
 
-{{<image src="wiring.jpg" alt="proposed wiring diagram">}}
+{{<imgresize wiring.jpg "1440x731" "proposed wiring diagram">}}
 
 For the 2-pole on/on switches, the vertical gray bars represent the connections that get made when switch is thrown.  They are shown in the above diagram in the "Down" position, where the connections are from lugs pins 5 to 6 and 2 to 3.  When in the "Up" position the connections are 5-4 and 1-2.
 
