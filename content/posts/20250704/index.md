@@ -15,7 +15,7 @@ Here is the **Super K**, a guitar I completed in the Spring of 2025.
 
 {{<imgresize super_k.jpg "600x600" "Super K">}}
 
-The inspiration for this comes from a early 1960s Kay Value Leader guitar that I own, which is one of my favorites.  It has a great jazz sound.  The construction is interesting too.  It is semi-hollow with just a single block of wood (spruce?) that runs parallel to the bridge from side to side.  Otherwise hollow.   This gives it a little more acoustic volume that a typical electric, and I play it unplugged most of the time.
+The inspiration for this comes from an early 1960s Kay Value Leader guitar that I own, which is one of my favorites.  It has a great jazz sound.  The construction is interesting too.  It is semi-hollow with just a single block of wood (spruce?) that runs parallel to the bridge from side to side.  Otherwise hollow.   This gives it a little more acoustic volume than a typical electric, and I play it unplugged most of the time.
 
 My version, The Super K, is constructed the same way, and has the same 24 1/4 inch scale length.  I used nicer woods and a much hotter pickup though.  I think it sounds even better than the Value Leader!
 
@@ -28,7 +28,7 @@ The body shape is roughly based on the Kay Thin Twin Jimmy Reed guitar.
 
 ## Electronics
 
-- First knob - Volume.  This is a push-pull switch.  Down is normal master volume. Up bypasses the tone circuit and piezo pickup, for just the Phat cat alone.
+- First knob - Volume.  This is a push-pull switch.  Down is normal master volume. Up bypasses the tone circuit and piezo pickup, for just the Phat Cat alone.
 - Second knob - Tone.  Also a push-pull.  Down is a 0.015 μF capacitor.  Up is a 0.005 μF capacitor.  The .005 really adds more midrange for a more forceful sound.
 - Third knob - Piezo Blend.  This acts as a volume for the piezo pickup only.  It is a push-pull too, and when pulled up turns off the piezo altogether for just the magnetic pickup.
 
@@ -72,10 +72,10 @@ Here the secret of the horizontal sound block is revealed.  I put my custom spin
 - Center Sound Block: Sitka Spruce
 - Pickup Ring: Persimmon
 - Control Plate Cover: Maple
-- Frets: 55x105 (extra jumbo)
+- Frets: 55x110 (extra jumbo)
 - Pickup: Seymour Duncan Phat Cat, plus a piezo rod under the bridge
 - Tuners: Sperzel USA Trim-Lock, Chrome, #3
-- Strings: Optima Gold 11-52
+- Strings: Optima Gold 11-50
 - Finish: Platina shellac, French polished
 
 ### Notes
