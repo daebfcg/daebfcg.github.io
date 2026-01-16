@@ -15,7 +15,7 @@ Now that I have test-fit the tuners, the headstock can be shaped into the final 
 
 {{<imgresize headstock_1.jpg "600x600" "Headstock shaped to the final form">}}
 
-This just required a little work on the disc sander to get the sides flat and converging to the end point.  And finally rounding off the arrow-head to a clean and serviceable end point.
+This just required a little work on the disc sander to get the sides flat and converging to the end.  And finally rounding off the arrow-head to a smooth point.
 
 I applied a wash coat of shellac to seal and protect the wood for the rest of the build process and to start to get an idea of how finished product will look.
 
