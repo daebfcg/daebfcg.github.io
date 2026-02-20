@@ -58,6 +58,4 @@ feedLanguage = "en-us"
 [pagination]
 pagerSize = 10
 
-[module]
-[[module.imports]]
-  path = "github.com/heyeshuang/hugo-theme-tokiwa"
+
