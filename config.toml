@@ -2,7 +2,7 @@ baseURL = "https://daebfcg.github.io/"
 languageCode = "en-us"
 title = "DAEBFCG"
 theme = "hugo-theme-tokiwa"
-author = "David Martines"
+author = "DAEBFCG"
 enableGitInfo = true
 enableEmoji = true
 pluralizelisttitles = false
@@ -11,7 +11,9 @@ hasCJKLanguage = false
 [params]
 brand = "DAEBFCG" # name of your site - appears in the sidebar
 description = "Luthiery and Musical Projects"
-useChineseFonts = false 
+useChineseFonts = false
+author = "DAEBFCG"
+authorEmail = "you@example.com"
 
 [menu]
 # Shown in the side menu.
@@ -34,8 +36,6 @@ useChineseFonts = false
   #   url = "/about/"
   #   weight = 2
 
-# Links to your socials.  Delete any you don't need/use.
-github_url = "https://github.com/davidwmartines"
 
 rss_icon = true
 rss_section = "posts"
