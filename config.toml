@@ -1,7 +1,7 @@
 baseURL = "https://daebfcg.github.io/"
 languageCode = "en-us"
 title = "DAEBFCG"
-theme = "hugo-theme-tokiwa"
+theme = "tokiwa"
 author = "DAEBFCG"
 enableGitInfo = true
 enableEmoji = true
