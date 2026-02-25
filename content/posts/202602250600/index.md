@@ -10,7 +10,7 @@ showFullContent: false
 readingTime: false
 draft: false
 ---
-Now that the right-side body core section is planned flat and the outline of the guitar body determined, the chamber for the electronics can be hollowed out.  This chamber will accommodate the various pots and switches for volume and tone controls, pickup selector switches, etc.  An opening will be cut into the back plate to work on the controls, and the knob and switch posts will protrude through the top plate.
+Now that the right-side body core section is planed flat and the outline of the guitar body determined, the chamber for the electronics can be hollowed out.  This chamber will accommodate the various pots and switches for volume and tone controls, pickup selector switches, etc.  An opening will be cut into the back plate to work on the controls, and the knob and switch posts will protrude through the top plate.
 
 This planned cutout region should provide ample space for just about any configuration of electronic components I can come up with.
 
