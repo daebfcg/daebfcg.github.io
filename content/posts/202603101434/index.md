@@ -49,6 +49,6 @@ Now the fret position marker dots can be inlaid down the center line.
 
 I am using dots made from reconstituted turquoise stone, keeping with the native North American theme of this guitar.  These should look striking on the walnut board.  At first I was a bit disappointed in the look of these as they are rather dull straight out of the package and not as light-green tinted as I had hoped.  After test-polishing one, though, the color got quite deeper and looked more pleasing.  I believe they will darken up and take on a more reflective sheen once polished and buffed.
 
-Now to just drill the holes with a 1/4 forstener bit on the drill press and CA-clue them in.
+Now to just drill the holes with a 1/4 forstener bit on the drill press and CA-glue them in.
 
 {{<imgresize dots_inlaid.jpg "800x800" "Turquoise fret marker dots inlaid">}}
