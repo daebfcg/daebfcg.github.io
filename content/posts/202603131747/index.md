@@ -13,7 +13,7 @@ draft: false
 
 Now to assemble the _blue_ side.
 
-The chambers are first cut out of the center section.  I am making the total volume of these chambers bit less than the red side chamber.  The red side control cavity ended up being large and taking out a lot of wood.  I want to leave a bit more solid mass around the bridge.
+The chambers are first cut out of the center section.  I am making the total volume of these chambers less than the red side chamber.  The red side control cavity ended up being large and taking out a lot of wood.  I want to leave more solid mass around the bridge.
 
 {{<imgresize chambers_cut.jpg "600x600" "Holes for the blue-side body chambers cut out">}}
 
@@ -21,9 +21,9 @@ First the back plate is glued down.
 
 {{<imgresize back_glued.jpg "800x800" "Back plate attached">}}
 
-After gluing the back plate, I noticed much glue had oozed into the chambers.  I was able to cleanly remove it all.  But after attaching the top any excess glue that squeezes into the chambers will be impossible to remove.  Plus, being mostly air tight the blobs of glue might never cure and end up molding inside there.  So I need to come up with a strategy to prevent this.
+After gluing the back plate, I noticed much glue had oozed into the chambers.  I was able to cleanly remove it all.  But after attaching the top any excess glue that squeezes into the chambers will be impossible to remove.  Plus, being mostly air tight, the blobs of glue might never cure and end up molding inside there.  So I need to come up with a strategy to prevent this.
 
-My plan is three-fold:
+### My plan is three-fold
 
  1. Mask off the inside of the top plate where it covers the chamber so that no glue gets applied there, and remove the masking tape just before attaching.
 
