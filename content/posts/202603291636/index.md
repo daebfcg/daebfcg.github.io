@@ -3,7 +3,7 @@ title: "Body Route"
 date: "2026-03-29T21:36:40Z"
 cover: ""
 tags: []
-series: []
+series: ["Electric Guitar Build 2025-2026"]
 keywords: []
 description: "Routing the electric guitar body"
 showFullContent: false

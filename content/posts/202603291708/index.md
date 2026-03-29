@@ -3,7 +3,7 @@ title: "Fretboard Placement"
 date: "2026-03-29T22:08:11Z"
 cover: ""
 tags: []
-series: []
+series: ["Electric Guitar Build 2025-2026"]
 keywords: []
 description: "Locking in the placement of the fretboard"
 showFullContent: false
