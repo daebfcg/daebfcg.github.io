@@ -3,7 +3,7 @@ title: "Jack Mount"
 date: "2026-04-09T15:22:02Z"
 cover: ""
 tags: []
-series: []
+series: ["Electric Guitar Build 2025-2026"]
 keywords: []
 description: "Drilling the hole for the Electrosocket jack mount"
 showFullContent: false
