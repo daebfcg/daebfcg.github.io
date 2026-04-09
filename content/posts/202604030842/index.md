@@ -10,7 +10,7 @@ showFullContent: false
 readingTime: false
 draft: false
 ---
-The proposed location of the jack and the angle into the control cavity, by eye.
+The proposed location of the jack and the angle into the control cavity, done by eye.
 
 {{<imgresize hole_position_angle.jpg "800x800" "Proposed hole location and angle">}}
 
@@ -26,7 +26,7 @@ Test fit.  A little deep, but depth was hard to get perfect on the rounded body.
 
 {{<imgresize mounted.jpg "800x800" "Jack socket mounted test fit">}}
 
-The pilot holes for the screw were drilled with a hand crank drill.  I hit the body in place with the drill chuck causing a small dent, visible just below the jack mount.
+The pilot holes for the screw were drilled with a hand crank drill.  I hit the body in one place with the drill chuck causing a small dent, visible just below the jack mount.
 
 {{<imgresize mounted_dent.jpg "800x800" "Dent">}}
 
