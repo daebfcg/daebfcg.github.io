@@ -59,7 +59,7 @@ Looking down the center, it is fairly noticeable that the neck is not straight w
 This is slight and can possibly be compensated for in a couple ways.
 
  1. Move the bridge location slightly off center, or
- 1. Keep the bridge in the center and let the stings land where they may, letting an outer string (in this case the bass side) veer off the fretboard as it moves away from the nut.
+ 1. Keep the bridge in the center and let the strings land where they may, letting an outer string (in this case the bass side) veer off the fretboard as it moves away from the nut.
 
 Since the center lines of this guitar are so integral to the design, moving the bridge to one side will look unacceptably bad, as this experiment with a stand-in bridge shows.
 
@@ -67,7 +67,7 @@ Since the center lines of this guitar are so integral to the design, moving the 
 
 I would probably try to finagle this on a guitar where the center line is not so prominent, and just deal with it.
 
-With option 2 the low e string will likely not even be playable.  The fretboard dots would not be between the two middle strings.  Furthermore the strings may not easily line up with the pickup pole pieces.  
+With option 2 the low e string will likely not even be playable.  Also, the fretboard dots would not be between the two middle strings, which looks ugly.  Furthermore the strings may not easily line up with the pickup pole pieces.  
 
 This option is not going work either, as it would highlight the misalignment.
 
