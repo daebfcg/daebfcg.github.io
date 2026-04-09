@@ -48,3 +48,7 @@ Now with two short 3/16 dowels in the underside of the fretboard, they lock into
 Here is a preview of things to come.  Still a lot of excess wood to be removed from the neck, but I am keeping it there for now so it stays square and easy to hold in the vise.
 
 {{<imgresize fretboard_in_place.jpg "800x800" "Fretboard in place on the guitar">}}
+
+---
+
+_UPDATE:_ Use 1/4 or 5/16 oak dowels, preferably more than two.  The 3/16 poplar dowel gets too soft when the glue hits it and does not hold well.
