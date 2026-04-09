@@ -1,6 +1,6 @@
 ---
 title: "Fretboard Glue Down (The Wrong Way)"
-date: "2026-04-09T18:02:55Z"
+date: "2026-04-08T10:02:55Z"
 cover: ""
 tags: []
 series: ["Electric Guitar Build 2025-2026"]

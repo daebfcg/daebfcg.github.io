@@ -1,6 +1,6 @@
 ---
 title: "Truss Rod Installation"
-date: "2026-04-09T17:39:42Z"
+date: "2026-04-07T12:42:42Z"
 cover: ""
 tags: []
 series: ["Electric Guitar Build 2025-2026"]

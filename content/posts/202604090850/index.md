@@ -1,6 +1,6 @@
 ---
 title: "Fretboard Removal"
-date: "2026-04-09T19:31:46Z"
+date: "2026-04-09T13:50:46Z"
 cover: ""
 tags: []
 series: ["Electric Guitar Build 2025-2026"]

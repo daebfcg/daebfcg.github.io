@@ -1,6 +1,6 @@
 ---
 title: "Jack Mount"
-date: "2026-04-09T15:22:02Z"
+date: "2026-04-03T13:42:02Z"
 cover: ""
 tags: []
 series: ["Electric Guitar Build 2025-2026"]
