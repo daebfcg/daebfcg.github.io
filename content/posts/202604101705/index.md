@@ -52,18 +52,19 @@ Overall a satisfactory result, although maybe not 100% perfect. This is the firs
 (Approximate order of operations)
 
 1. Carve the neck to shape
-1. Radius-sand the fretboard and clean up fretboard-to-headstock transition
-1. Install frets
-1. Install bridges and string-through ferrules
-1. Make the truss rod cover plate
-1. Make the control cavity cover plate
+1. Clean up fretboard headstock/body transitions
+1. Radius-sand the fretboard
+1. Drill holes for bridges and string-through ferrules
 1. Sand down to finish-grit and apply first wash-coat of shellac
+1. Install frets
 1. Treat fretboard with tung-oil
 1. Level and crown frets
-1. Install tuners and nut
+1. Install tuners and hardware
 1. Do basic setup
 1. Install pickups
 1. Experiment with electronics circuit designs
+1. Make the truss rod cover plate
+1. Make the control cavity cover plate
 1. Drill holes for pots and switches
 1. Solder together electronics components and test
 1. Remove all removable parts and apply final French-Polish finish
