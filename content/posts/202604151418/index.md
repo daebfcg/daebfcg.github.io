@@ -17,13 +17,13 @@ The guitar is positioned and supported so that the neck remains flat and does no
 
 The neck support block used here is a rolling-pin holder I picked up from a flea market for $3.  StewMac sells the same thing, lined with cork, for over $20.
 
-A StewMac 12 inch radius sanding block is used.  (A longer radius beam would be ideal.)  Some 80 grit sanding-belt is stuck to the concave surface with double-sided tape.
+A StewMac 12 inch radius sanding block is used.  (A longer radius beam would be ideal.)  A section of 80 grit sanding-belt is stuck to the concave surface with double-sided tape.
 
 The important thing is to ensure that the fretboard surface remains flat and of equal thickness all around during sanding.
 
 {{<imgresize sanding_block.jpg "800x800" "Using the radius sanding block">}}
 
-This is followed up with 220 grit.  I will take another new passes with 400-grit before installing the frets.
+This is followed up with 220 grit.  I will take another few passes with 400-grit before installing the frets.
 
 The fretboard now has a nice 12 inch radius across the top.
 
