@@ -11,7 +11,7 @@ readingTime: false
 draft: false
 ---
 
-The guitar is positioned and supported so that the neck remains straight and does not flex during the sanding process.  Some protective paper is used to cover the body and headstock.
+The guitar is positioned and supported so that the neck remains flat and does not flex during the sanding process.  Some protective paper is used to cover the body and headstock.
 
 {{<imgresize protection.jpg "800x800" "Protection and support for radius sanding">}}
 
