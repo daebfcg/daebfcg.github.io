@@ -13,6 +13,8 @@ draft: false
 
 The general procedure is simple - remove everything that does not look like a neck.
 
+_These photos are slightly out of order and organized roughly into distinct steps, but in reality the whole neck process is one fluid activity with lots of iteration._
+
 ## Holding Jig
 
 A special _cruciform_ holding jig that can be firmly held in the vise is made to support the guitar for neck carving.
@@ -81,7 +83,7 @@ Next the neck-to-headstock transition is worked on.
 
 With the headstock and heel areas roughed out, the overall shaping can be done.  
 
-The first tool using is the Shinto rasp, which removes a lot of wood quickly get sthe initial facets cut.
+The first tool using is the Shinto rasp, which removes a lot of wood quickly get the initial facets cut.
 
 {{<imgresize shaping_1.jpg "800x800" "Neck carving 1">}}
 
