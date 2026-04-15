@@ -3,7 +3,7 @@ title: "Fretboard Radius"
 date: "2026-04-14T21:18:28Z"
 cover: ""
 tags: []
-series: []
+series: ["Electric Guitar Build 2025-2026"]
 keywords: []
 description: "Sanding the fretboard to a 12 inch radius"
 showFullContent: false
