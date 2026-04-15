@@ -22,7 +22,7 @@ I went back over it by hand to smooth it out.  I am keeping the ends of the horn
 
 {{<imgresize top_sanded.jpg "800x800" "Top after rounding and sanding">}}
 
-After rounding over the back edges the same way, I used a disc sander to sculpt out a slight belly to the back surface where the guitar meets the body of the player.  This was done partially to compensate for a low area in one of the cherry boards used for the neck-core.  It was about 1/8 inch too shallow.  So I scooped out the back a bit giving it a nice smooth contour.  This does have a nice feel to it when held against the ribs in the playing position.  You can see here that the back dips in slightly around the waist area.
+After rounding over the back edges the same way, I used a random-orbit sander with a 60-git stripping pad to sculpt out a slight belly to the back surface where the guitar meets the body of the player.  This was done partially to compensate for a low area in one of the cherry boards used for the neck-core.  It was about 1/8 inch too shallow.  So I scooped out the back a bit giving it a nice smooth contour.  This does have a nice feel to it when held against the ribs in the playing position.  You can see here that the back dips in slightly around the waist area.
 
 {{<imgresize back_contour.jpg "800x800" "Back contour">}}
 
