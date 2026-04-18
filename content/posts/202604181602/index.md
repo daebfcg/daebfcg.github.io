@@ -34,6 +34,8 @@ I switched to a small triangular block of wood, which works much better, and is 
 
 My first method for this was to get the two outermost bridges screwed in, and then lay out the remaining four in a line and screw them in.  Unfortunately, the planned distance between the outermost strings on this guitar (2.0625") is a bit more than the minimal width these bridges are designed for so there will be some gap between them.  So I cannot just lay them in side to side touching each other.
 
+{{<imgresize outer_bridges_positioned.jpg "800x800" "Outermost bridges positioned">}}
+
 The ideal side to side placement in this case is much like the principle used for string spacing on a nut - the thicker strings get a slightly larger gap between them, so overall the strings come out equally spaced.
 
 I tried calculating the positions taking into account this gap, but it worked out to about 1/100th of an inch extra between the low e, a, and d strings, and 0 gap betwen the treble strings.
@@ -100,8 +102,6 @@ Now for the string holes.  These bridges can support either top-load or string-t
 Then used a 5/16 brad point to make the recess for the top-loading option.  
 
 {{<imgresize all_holes_top.jpg "800x800" "Holes for strings">}}
-
-
 
 The 1/8 holes need to go all the way through the body for the string-through-body option.  For that I used the pin trick to get the drill bit exactly aligned from the top hole so I could complete the hole from the back.
 
