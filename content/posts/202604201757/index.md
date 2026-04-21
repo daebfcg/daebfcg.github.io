@@ -29,7 +29,7 @@ Then another round of 360.
 
 {{<imgresize sanding_4.jpg "800x800" "Sanding">}}
 
- Finally a light pass with 600 and 1000 grits.  Possibly overkill, but I like the result.
+Finally a light pass with 600 and 1000 grits.  Possibly overkill, but I like the result.
 
 {{<imgresize sanding_5.jpg "800x800" "Sanding">}}
 
@@ -45,4 +45,4 @@ Looking pretty decent.
 
 {{<imgresize end.jpg "800x800" "detail of guitar  end with shellac">}}
 
-This seal coat will be kept on for the remained of the build, the fret installation, and the test-playing period when the electronics circuit is finalized.  It will be again sanded to 1000 grit before the final French Polish shellac finish is applied.
+This seal coat will be kept on for the remainder of the build, the fret installation, and the test-playing period when the electronics circuit is finalized.  It will be again sanded to 1000 grit before the final French Polish shellac finish is applied.
