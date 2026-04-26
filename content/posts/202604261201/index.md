@@ -35,6 +35,8 @@ Then carefully make them 3/8 deep so the ferrules are flush with the back.
 
 They are a tight fit and need to be tapped in with a hammer and wooden dowel.
 
+{{<imgresize ferrules_installation.jpg "800x800" "Installing the ferrules">}}
+
 I will remove them before finishing, and reinstall again afterwards, possibly gluing in with a drop of CA in each.
 
 {{<imgresize ferrules_installed.jpg "800x800" "String ferrules installed">}}
