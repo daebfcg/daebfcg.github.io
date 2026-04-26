@@ -3,7 +3,7 @@ title: "Fittings"
 date: "2026-04-26T17:01:41Z"
 cover: ""
 tags: []
-series: ["Electric Guitar Build 20205-2026"]
+series: ["Electric Guitar Build 2025-2026"]
 keywords: []
 description: "Truss rod cover, control plate cover, and string ferrules"
 showFullContent: false
