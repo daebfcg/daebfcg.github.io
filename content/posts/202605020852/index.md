@@ -13,7 +13,7 @@ draft: false
 
 ## Leveling the Frets
 
-The goal is to get all the frets and the exact same height.  Mostly they are, but there some variations due to different wood density along the fretboard and varying installation pressure.
+The goal is to get all the frets to the exact same height.  Mostly they are, but there are some variations due to different wood density along the fretboard and varying installation pressure.
 
 This is crucial to avoid string buzz, misfretting and other playability issues.
 
