@@ -2,7 +2,7 @@
 &lt;p&gt;&lt;a href="#sound-samples"&gt;Jump down to the recordings&amp;hellip;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="circuit-test-rig"&gt;Circuit Test Rig&lt;/h2&gt;
 &lt;p&gt;For testing I attached JST-SM connectors to the pickup leads, as well as one from the string-ground/shielding wire. These make convenient and stable test connections - much better than alligator clips.&lt;/p&gt;
-&lt;p&gt;Recall that of these pickups has three wires:&lt;/p&gt;
+&lt;p&gt;Recall that these pickup have three wires:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;full output&lt;/li&gt;
 &lt;li&gt;tapped output&lt;/li&gt;
@@ -16,7 +16,7 @@
 &lt;p&gt;The pickups go directly into this. It lets me switch each pickup between the full and tapped output, and also has a three-way switch to select each pickup individually or combine both in series.&lt;/p&gt;
 &lt;h3 id="2-neck-and-middle-tone--white-box-red-breadboard"&gt;2. Neck and Middle Tone (white box, red breadboard)&lt;/h3&gt;
 &lt;p&gt;This consists of a rotary switch for selecting different capacitors and a pot for the amount applied.&lt;/p&gt;
-&lt;p&gt;This is coming out of the series connection and affects the neck pickup as a tone control, acts like a mid-cut when the pickups are together, and has no effect on the bridge pickup alone. It seems pretty useful in that I can have the neck pickup with a lot of tone applied but then switch to the middle or bridge position a still have a bright sound.&lt;/p&gt;
+&lt;p&gt;This is coming out of the series connection and affects the neck pickup as a tone control, acts like a mid-cut when the pickups are together, and has no effect on the bridge pickup alone. It seems pretty useful in that I can have the neck pickup with a lot of tone applied but then switch to the middle or bridge position and still have a bright sound.&lt;/p&gt;
 &lt;p&gt;I currently have a .005, .015 and a .022 capacitor in this, and I think I like the .022 here.&lt;/p&gt;
 &lt;p&gt;1 MG pot, too, so when it is on 10 it has virtually no attenuation.&lt;/p&gt;
 &lt;h3 id="3-main-output-module-large-breadboard"&gt;3. Main output module (large breadboard)&lt;/h3&gt;
@@ -28,7 +28,7 @@
 &lt;p&gt;Caps are .015 and .022. I am leaning towards the .015 in this case. I also tried a .044 and as expected did not like the amount of mid range it removed.&lt;/p&gt;
 &lt;p&gt;500K audio pot.&lt;/p&gt;
 &lt;h3 id="5-direct-out-switch-blue-breadboard"&gt;5. Direct Out Switch (blue breadboard)&lt;/h3&gt;
-&lt;p&gt;This is comes next in line after the pickup selector, and allows completely bypassing all the volume and tone controls so the pickups goe directly to the jack. I really like this option since it gives such a pure, bright, and LOUD sound at the flick of a switch.&lt;/p&gt;
+&lt;p&gt;This comes next in line after the pickup selector, and allows completely bypassing all the volume and tone controls so the pickups go directly to the jack. I really like this option since it gives such a pure, bright, and LOUD sound at the flick of a switch.&lt;/p&gt;
 &lt;p&gt;Actually, that neck/middle tone stays in the circuit since it comes in parallel with this switch, so the real direct-out only happens when the bridge pickup is selected by itself, but that is ok.&lt;/p&gt;
 &lt;h2 id="sound-samples"&gt;Sound Samples&lt;/h2&gt;
 &lt;p&gt;Here are some recordings of me noodling around. In each case, I started with the pickup(s) direct out, and then applied various combinations of volume, tone, and tap switching.&lt;/p&gt;
@@ -41,7 +41,7 @@
 &lt;h3 id="bridge-pickup"&gt;Bridge Pickup&lt;/h3&gt;
 &lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/ElectricGuitar20252026Test_BridgePickup.flac'&gt;&lt;/audio&gt;
 &lt;hr&gt;
-&lt;p&gt;These were recorded with no amp directly into an Audient ID4 audio interface into Ardour, with no signal processing applied at all.&lt;/p&gt;
+&lt;p&gt;These were recorded with no amp, directly into an Audient ID4 audio interface into Ardour, with no signal processing applied at all.&lt;/p&gt;
 &lt;p&gt;The &amp;ldquo;reverb&amp;rdquo; you might hear is just the strings themselves resonating sympathetically which is how I tend to play.&lt;/p&gt;
 &lt;p&gt;The electric buzzing / static noises are due to all the unshielded wires in the test rig, and should not be present in the completed guitar.&lt;/p&gt;
 &lt;p&gt;I will record some more tests through an amp soon. And maybe play some actual tunes.&lt;/p&gt;</description></item><item><title>Pickups Installed</title><link>https://daebfcg.github.io/posts/202605020942/</link><pubDate>Sat, 02 May 2026 14:42:18 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605020942/</guid><description>&lt;h2 id="logo-removal"&gt;Logo removal&lt;/h2&gt;
@@ -64,7 +64,7 @@
 &lt;p&gt;The strings are on for the first time! DAddario XL110 for now. These will come off and on a few times during setup and will be replaced with a nicer Pyramid set in the end.&lt;/p&gt;
 &lt;img src="https://daebfcg.github.io/posts/202605020920/strings_on_hu_bfab5bbaa21fa3ab.jpg" width="602" height="800" alt="Strings on"&gt;
 &lt;p&gt;&lt;strong&gt;First Impressions:&lt;/strong&gt; Plays nice and is quite &lt;em&gt;bright&lt;/em&gt; (as expected). I played it like this for a couple hours to let it settle and to get a sense of things. Chords sound especially good - very clear. Sound is balanced but definitely leans to the high-end side. Single notes seem fine but will need to be evaluated through pickups and amp to really know.&lt;/p&gt;</description></item><item><title>Frets Level and Crown</title><link>https://daebfcg.github.io/posts/202605020852/</link><pubDate>Sat, 02 May 2026 13:52:23 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605020852/</guid><description>&lt;h2 id="leveling-the-frets"&gt;Leveling the Frets&lt;/h2&gt;
-&lt;p&gt;The goal is to get all the frets and the exact same height. Mostly they are, but there some variations due to different wood density along the fretboard and varying installation pressure.&lt;/p&gt;
+&lt;p&gt;The goal is to get all the frets to the exact same height. Mostly they are, but there are some variations due to different wood density along the fretboard and varying installation pressure.&lt;/p&gt;
 &lt;p&gt;This is crucial to avoid string buzz, misfretting and other playability issues.&lt;/p&gt;
 &lt;p&gt;With the truss rod adjusted so the fretboard is perfectly flat, a file is run over them to remove any high spots. Each fret has a line of Sharpie marker across it to identify which frets are getting hit. Once all the marker lines are rubbed off they are all the same height.&lt;/p&gt;
 &lt;img src="https://daebfcg.github.io/posts/202605020852/leveling_hu_559a91587088c8e2.jpg" width="800" height="602" alt="Leveling the frets"&gt;
