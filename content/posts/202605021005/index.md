@@ -90,3 +90,11 @@ Here are some recordings of me noodling around.  In each case, I started with th
 {{< blog_media_audio filename=ElectricGuitar20252026Test_BridgePickup.flac >}}
 
 ---
+
+These were recorded with no amp directly into an Audient ID4 audio interface into Ardour, with no signal processing applied at all.
+
+The "reverb" you might hear is just the strings themselves resonating sympathetically which is how I tend to play.
+
+The electric buzzing / static noises are due to all the unshielded wires in the test rig, and should not be present in the completed guitar.
+
+I will record some more tests through an amp soon.  And maybe play some actual tunes.
