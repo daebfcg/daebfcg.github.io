@@ -21,7 +21,7 @@ I decided to remove the white "Seymour Duncan" logo from the pickups since I do 
 
 {{<imgresize pickups_installed_detail.jpg "800x800" "Pickups installed">}}
 
-Installation was rather tedious. I need to revisit the screw-hole strategy. I was planning to use some small nuts, CA glued into the bottom of the pickup routes, with a hole slightly wider than the screw into the body.  I could not quite get this going, and just screwed directly into the wood.  I need to rethink this and do it over, but it can be done later as well.  Good enough for now.
+Installation was rather tedious.  They are held in tight with some rubber tubing but I need to revisit the screw-hole strategy. I was planning to use some small nuts, CA glued into the bottom of the pickup routes, with a hole slightly wider than the screw into the body.    I could not quite get this going, and just screwed directly into the wood.  I need to rethink this and do it over, but it can be done later as well.  Good enough for now.
 
 {{<imgresize pickups_installed.jpg "600x600" "Pickups installed and ready to test">}}
 

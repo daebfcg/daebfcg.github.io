@@ -10,7 +10,12 @@ showFullContent: false
 readingTime: false
 draft: false
 ---
-## Test Rig
+
+## Sound Test
+
+[Jump down to the recordings...]({{< ref "#sound-samples" >}})
+
+## Circuit Test Rig
 
 For testing I attached JST-SM connectors to the pickup leads, as well as one from the string-ground/shielding wire.  These make convenient and stable test connections - much better than alligator clips.
 
@@ -68,14 +73,20 @@ Actually, that neck/middle tone stays in the circuit since it comes in parallel 
 
 Here are some recordings of me noodling around.  In each case, I started with the pickup(s) direct out, and then applied various combinations of volume, tone, and tap switching.
 
-### Neck pickup
+### Neck Pickup
 
 {{< blog_media_audio filename=ElectricGuitar20252026Test_NeckPickup.flac >}}
+
+---
 
 ### Pickups Together
 
 {{< blog_media_audio filename=ElectricGuitar20252026Test_BothPickups.flac >}}
 
+---
+
 ### Bridge Pickup
 
 {{< blog_media_audio filename=ElectricGuitar20252026Test_BridgePickup.flac >}}
+
+---

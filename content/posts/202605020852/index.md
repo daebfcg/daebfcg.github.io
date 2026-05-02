@@ -35,7 +35,7 @@ Any high spots are fine tuned with a small file.
 
 Now the frets are all the same height, but flat on top.  Time to recreate the rounded top (crown) across them.
 
-This is done with a crowning file (medium width burr).
+This is done with a concave-shaped crowning file (medium width burr).
 
 {{<imgresize crowning.jpg "800x800" "Crowning the frets">}}
 
@@ -43,7 +43,7 @@ This is done with a crowning file (medium width burr).
 
 ## Polish
 
-Once the crowns are back, it is time to sand out all the file marks and polish them up.  I start with 320 grit.  The down to 600, 1,000 and all the way to 12,000.  1,500 - 12,000 are done with micro mesh polishing pads.
+Once the crowns are reestablished it is time to sand out all the file marks and polish up the frets.  I start with 320 grit.  Then down to 600, 1,000, and all the way to 12,000.  1,500 through 12,000 are done with micro mesh polishing pads.
 
 {{<imgresize micro_mesh.jpg "800x800" "Micro mesh polishing pads">}}
 
