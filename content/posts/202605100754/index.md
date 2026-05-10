@@ -2,7 +2,7 @@
 title: "Circuit Test Box"
 date: "2026-05-10T12:54:26Z"
 cover: ""
-tags: []
+tags: ["wiring"]
 series: ["Electric Guitar Build 2025-2026"]
 keywords: []
 description: "New and improved circuit experimentation kit"
