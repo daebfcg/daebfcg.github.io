@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wiring on DAEBFCG</title><link>https://daebfcg.github.io/tags/wiring/</link><description>Recent content in Wiring on DAEBFCG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>/tags/wiring</copyright><lastBuildDate>Sun, 10 May 2026 13:35:56 +0000</lastBuildDate><atom:link href="https://daebfcg.github.io/tags/wiring/index.xml" rel="self" type="application/rss+xml"/><item><title>Drawing Schematics</title><link>https://daebfcg.github.io/posts/202605100835/</link><pubDate>Sun, 10 May 2026 13:35:56 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605100835/</guid><description>&lt;p&gt;My first schematic, made for the guitar circuit.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wiring on DAEBFCG</title><link>https://daebfcg.github.io/tags/wiring/</link><description>Recent content in Wiring on DAEBFCG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>/tags/wiring</copyright><lastBuildDate>Tue, 12 May 2026 18:28:09 +0000</lastBuildDate><atom:link href="https://daebfcg.github.io/tags/wiring/index.xml" rel="self" type="application/rss+xml"/><item><title>New Tone Control Option</title><link>https://daebfcg.github.io/posts/202605121328/</link><pubDate>Tue, 12 May 2026 18:28:09 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605121328/</guid><description>&lt;p&gt;This introduces another switch for two useful and distinct treble-tone options. The added option bypasses the typical treble-tone signal flow and connects the signal directly to ground through a small capacitor.&lt;/p&gt;
+&lt;p&gt;This sort of mod is often used on Telecasters. I gave it a try and found it &lt;strong&gt;highly effective&lt;/strong&gt; for a mid-rangey, cutting, almost fuzzy, searing lead tone.&lt;/p&gt;
+&lt;p&gt;On this guitar, I found the .0015 µF capacitor worked best, which is coincidentally one order of magnitude smaller than the cap I like for the normal tone.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. signal → 500K Pot → .015 µF capacitor → ground.
+2. signal → .0015 µF capacitor → ground.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Alternatively, the switch could be placed after the pot and have it function as a capacitor-selector only, which is often a nice option. This does add the ability to dial in more or less of the effect of the small cap. However the small cap is mostly noticeable when the pot is on 0 (no resistance to ground). So I find it more useful to be able to alternate between the small cap with no resistance and the normal cap with higher/variable resistance just by flipping the switch for a more dramatic change.&lt;/p&gt;
+&lt;h2 id="updated-schematic"&gt;Updated Schematic&lt;/h2&gt;
+&lt;p&gt;Added the &amp;ldquo;TrebleCap&amp;rdquo; switch and additional capacitor.&lt;/p&gt;
+&lt;img src="https://daebfcg.github.io/posts/202605121328/schematic_20260512_hu_6bc94ecadcd01aff.png" width="800" height="383" alt="Schematic with updated tone control"&gt;
+&lt;h2 id="example-recordings"&gt;Example Recordings&lt;/h2&gt;
+&lt;h3 id="pickups-in-series-bridge-full-neck-tapped-mids-0-bass-10"&gt;Pickups in series (bridge full, neck tapped), mids 0, bass 10&lt;/h3&gt;
+&lt;p&gt;Original .015 µF cap, treble 10:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_015_tone10_20260513.flac'&gt;&lt;/audio&gt;
+&lt;p&gt;New .0015 µF cap direct to ground:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_0015_20260513.flac'&gt;&lt;/audio&gt;
+&lt;h3 id="bridge-pickup-only-full-bass-on-10"&gt;Bridge pickup only (full), bass on 10&lt;/h3&gt;
+&lt;p&gt;Original .015 µF cap, treble 4:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_015_bridge_20260513.flac'&gt;&lt;/audio&gt;
+&lt;p&gt;New .0015 µF cap:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_0015_bridge_20260513.flac'&gt;&lt;/audio&gt;
+&lt;h3 id="a-few-more-for-comparison"&gt;A few more for comparison&lt;/h3&gt;
+&lt;h4 id="015-µf-cap"&gt;.015 µF cap&lt;/h4&gt;
+&lt;p&gt;Pickups in series (bridge full, neck tapped), mids 0, bass 10, treble 5:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_015_tone5_20260513.flac'&gt;&lt;/audio&gt;
+&lt;p&gt;Pickups in series (bridge full, neck tapped), mids 0, bass 10, treble 3:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_015_tone3_20260513.flac'&gt;&lt;/audio&gt;
+&lt;h4 id="0015-µf-cap"&gt;.0015 µF cap&lt;/h4&gt;
+&lt;p&gt;Pickups in series (bridge full, neck tapped), mids 10, bass 0:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_0015_mids10_20260513.flac'&gt;&lt;/audio&gt;</description></item><item><title>Drawing Schematics</title><link>https://daebfcg.github.io/posts/202605100835/</link><pubDate>Sun, 10 May 2026 13:35:56 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605100835/</guid><description>&lt;p&gt;My first schematic, made for the guitar circuit.&lt;/p&gt;
 &lt;img src="https://daebfcg.github.io/posts/202605100835/schematic_hu_73fd7185c4967bab.png" width="800" height="403" alt="Schematic"&gt;
 &lt;h2 id="kicad-schematic-editor"&gt;KiCad Schematic Editor&lt;/h2&gt;
 &lt;p&gt;I am just recently getting comfortable reading and creating schematics. I found a nice oss editor that is part of the KiCad suite of tools.&lt;/p&gt;

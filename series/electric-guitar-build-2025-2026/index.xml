@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electric Guitar Build 2025-2026 on DAEBFCG</title><link>https://daebfcg.github.io/series/electric-guitar-build-2025-2026/</link><description>Recent content in Electric Guitar Build 2025-2026 on DAEBFCG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>/series/electric-guitar-build-2025-2026</copyright><lastBuildDate>Sun, 10 May 2026 13:35:56 +0000</lastBuildDate><atom:link href="https://daebfcg.github.io/series/electric-guitar-build-2025-2026/index.xml" rel="self" type="application/rss+xml"/><item><title>Drawing Schematics</title><link>https://daebfcg.github.io/posts/202605100835/</link><pubDate>Sun, 10 May 2026 13:35:56 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605100835/</guid><description>&lt;p&gt;My first schematic, made for the guitar circuit.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electric Guitar Build 2025-2026 on DAEBFCG</title><link>https://daebfcg.github.io/series/electric-guitar-build-2025-2026/</link><description>Recent content in Electric Guitar Build 2025-2026 on DAEBFCG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>/series/electric-guitar-build-2025-2026</copyright><lastBuildDate>Tue, 12 May 2026 18:28:09 +0000</lastBuildDate><atom:link href="https://daebfcg.github.io/series/electric-guitar-build-2025-2026/index.xml" rel="self" type="application/rss+xml"/><item><title>New Tone Control Option</title><link>https://daebfcg.github.io/posts/202605121328/</link><pubDate>Tue, 12 May 2026 18:28:09 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605121328/</guid><description>&lt;p&gt;This introduces another switch for two useful and distinct treble-tone options. The added option bypasses the typical treble-tone signal flow and connects the signal directly to ground through a small capacitor.&lt;/p&gt;
+&lt;p&gt;This sort of mod is often used on Telecasters. I gave it a try and found it &lt;strong&gt;highly effective&lt;/strong&gt; for a mid-rangey, cutting, almost fuzzy, searing lead tone.&lt;/p&gt;
+&lt;p&gt;On this guitar, I found the .0015 µF capacitor worked best, which is coincidentally one order of magnitude smaller than the cap I like for the normal tone.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. signal → 500K Pot → .015 µF capacitor → ground.
+2. signal → .0015 µF capacitor → ground.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Alternatively, the switch could be placed after the pot and have it function as a capacitor-selector only, which is often a nice option. This does add the ability to dial in more or less of the effect of the small cap. However the small cap is mostly noticeable when the pot is on 0 (no resistance to ground). So I find it more useful to be able to alternate between the small cap with no resistance and the normal cap with higher/variable resistance just by flipping the switch for a more dramatic change.&lt;/p&gt;
+&lt;h2 id="updated-schematic"&gt;Updated Schematic&lt;/h2&gt;
+&lt;p&gt;Added the &amp;ldquo;TrebleCap&amp;rdquo; switch and additional capacitor.&lt;/p&gt;
+&lt;img src="https://daebfcg.github.io/posts/202605121328/schematic_20260512_hu_6bc94ecadcd01aff.png" width="800" height="383" alt="Schematic with updated tone control"&gt;
+&lt;h2 id="example-recordings"&gt;Example Recordings&lt;/h2&gt;
+&lt;h3 id="pickups-in-series-bridge-full-neck-tapped-mids-0-bass-10"&gt;Pickups in series (bridge full, neck tapped), mids 0, bass 10&lt;/h3&gt;
+&lt;p&gt;Original .015 µF cap, treble 10:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_015_tone10_20260513.flac'&gt;&lt;/audio&gt;
+&lt;p&gt;New .0015 µF cap direct to ground:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_0015_20260513.flac'&gt;&lt;/audio&gt;
+&lt;h3 id="bridge-pickup-only-full-bass-on-10"&gt;Bridge pickup only (full), bass on 10&lt;/h3&gt;
+&lt;p&gt;Original .015 µF cap, treble 4:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_015_bridge_20260513.flac'&gt;&lt;/audio&gt;
+&lt;p&gt;New .0015 µF cap:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_0015_bridge_20260513.flac'&gt;&lt;/audio&gt;
+&lt;h3 id="a-few-more-for-comparison"&gt;A few more for comparison&lt;/h3&gt;
+&lt;h4 id="015-µf-cap"&gt;.015 µF cap&lt;/h4&gt;
+&lt;p&gt;Pickups in series (bridge full, neck tapped), mids 0, bass 10, treble 5:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_015_tone5_20260513.flac'&gt;&lt;/audio&gt;
+&lt;p&gt;Pickups in series (bridge full, neck tapped), mids 0, bass 10, treble 3:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_015_tone3_20260513.flac'&gt;&lt;/audio&gt;
+&lt;h4 id="0015-µf-cap"&gt;.0015 µF cap&lt;/h4&gt;
+&lt;p&gt;Pickups in series (bridge full, neck tapped), mids 10, bass 0:&lt;/p&gt;
+&lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_0015_mids10_20260513.flac'&gt;&lt;/audio&gt;</description></item><item><title>Drawing Schematics</title><link>https://daebfcg.github.io/posts/202605100835/</link><pubDate>Sun, 10 May 2026 13:35:56 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605100835/</guid><description>&lt;p&gt;My first schematic, made for the guitar circuit.&lt;/p&gt;
 &lt;img src="https://daebfcg.github.io/posts/202605100835/schematic_hu_73fd7185c4967bab.png" width="800" height="403" alt="Schematic"&gt;
 &lt;h2 id="kicad-schematic-editor"&gt;KiCad Schematic Editor&lt;/h2&gt;
 &lt;p&gt;I am just recently getting comfortable reading and creating schematics. I found a nice oss editor that is part of the KiCad suite of tools.&lt;/p&gt;
@@ -253,21 +282,4 @@
 &lt;p&gt;Polished up it looks pretty good.&lt;/p&gt;
 &lt;img src="https://daebfcg.github.io/posts/202604261201/control_plate_1_hu_c0db1967b5f7a294.jpg" width="800" height="602" alt="Control cavity cover test fit"&gt;
 &lt;p&gt;Back fittings are done!&lt;/p&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604261201/control_plate_2_hu_dd2b912cb35dd19e.jpg" width="800" height="602" alt="Control cavity cover installed"&gt;</description></item><item><title>Pre Finish</title><link>https://daebfcg.github.io/posts/202604201757/</link><pubDate>Mon, 20 Apr 2026 22:58:06 +0000</pubDate><guid>https://daebfcg.github.io/posts/202604201757/</guid><description>&lt;p&gt;Now the entire guitar is sanded end to end.&lt;/p&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604201757/sanding_1_hu_2f3e47f549c84274.jpg" width="800" height="602" alt="Sanding"&gt;
-&lt;p&gt;First, 150 grit is used to remove any remaining carving marks and to fix any remaining contour and shaping issues.&lt;/p&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604201757/sanding_2_hu_417ca3ce6ac6da8d.jpg" width="800" height="602" alt="Sanding"&gt;
-&lt;p&gt;This is followed by a thorough going-over with 220 grit.&lt;/p&gt;
-&lt;p&gt;All scratches must be eliminated.&lt;/p&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604201757/sanding_3_hu_9d4847415585f218.jpg" width="800" height="602" alt="Sanding"&gt;
-&lt;p&gt;Then another round of 360.&lt;/p&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604201757/sanding_4_hu_1a6ad91457194260.jpg" width="800" height="602" alt="Sanding"&gt;
-&lt;p&gt;Finally a light pass with 600 and 1000 grits. Possibly overkill, but I like the result.&lt;/p&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604201757/sanding_5_hu_c611ff560e88c8c8.jpg" width="800" height="602" alt="Sanding"&gt;
-&lt;p&gt;Now one seal-coat of 1-pound-cut platina shellac is applied.&lt;/p&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604201757/shellacing_hu_5c5faffeba655b09.jpg" width="800" height="602" alt="Applying shellac"&gt;
-&lt;p&gt;Looking pretty decent.&lt;/p&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604201757/full_length_view_hu_f9a8dfabfa5249de.jpg" width="452" height="600" alt="Full view of guitar with first coat of shellac"&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604201757/detail_hu_a96caefb31e5ab9.jpg" width="800" height="602" alt="detail of guitar body with shellac"&gt;
-&lt;img src="https://daebfcg.github.io/posts/202604201757/end_hu_ced4640fa503019b.jpg" width="800" height="602" alt="detail of guitar end with shellac"&gt;
-&lt;p&gt;This seal coat will be kept on for the remainder of the build, the fret installation, and the test-playing period when the electronics circuit is finalized. It will be again sanded to 1000 grit before the final French Polish shellac finish is applied.&lt;/p&gt;</description></item></channel></rss>
+&lt;img src="https://daebfcg.github.io/posts/202604261201/control_plate_2_hu_dd2b912cb35dd19e.jpg" width="800" height="602" alt="Control cavity cover installed"&gt;</description></item></channel></rss>
