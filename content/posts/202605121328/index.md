@@ -64,6 +64,6 @@ Pickups in series (bridge full, neck tapped), mids 0, bass 10, treble 3:
 
 #### .0015 µF cap
 
-Pickups in series (bridge full, neck tapped), mids 10, bass 0:
+Pickups in series (bridge full, neck full), mids 10, bass 0:
 
 {{< blog_media_audio filename=paddy_0015_mids10_20260513.flac >}}
