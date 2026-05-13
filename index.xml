@@ -26,7 +26,7 @@
 &lt;p&gt;Pickups in series (bridge full, neck tapped), mids 0, bass 10, treble 3:&lt;/p&gt;
 &lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_015_tone3_20260513.flac'&gt;&lt;/audio&gt;
 &lt;h4 id="0015-µf-cap"&gt;.0015 µF cap&lt;/h4&gt;
-&lt;p&gt;Pickups in series (bridge full, neck tapped), mids 10, bass 0:&lt;/p&gt;
+&lt;p&gt;Pickups in series (bridge full, neck full), mids 10, bass 0:&lt;/p&gt;
 &lt;audio controls preload="auto" src='https://dxffd4gk9zzvk2.s3.us-east-2.amazonaws.com/blog-media/paddy_0015_mids10_20260513.flac'&gt;&lt;/audio&gt;</description></item><item><title>Drawing Schematics</title><link>https://daebfcg.github.io/posts/202605100835/</link><pubDate>Sun, 10 May 2026 13:35:56 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605100835/</guid><description>&lt;p&gt;My first schematic, made for the guitar circuit.&lt;/p&gt;
 &lt;img src="https://daebfcg.github.io/posts/202605100835/schematic_hu_73fd7185c4967bab.png" width="800" height="403" alt="Schematic"&gt;
 &lt;h2 id="kicad-schematic-editor"&gt;KiCad Schematic Editor&lt;/h2&gt;
