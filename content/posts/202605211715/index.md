@@ -19,7 +19,7 @@ Updated schematic:
 
 A few changes from before.
 
-- Volume pot `RV4` is specified as a 333KΩ,  This is a reduction from the original 500K.  It sounds slightly smoother and less harsh.  Lots of single-coil pickup guitars use 250K for this reason.  There is a drop in volume but it almost imperceptible.  I thought 250 was a bit too soft sounding, so added a 1MΩ resistor across the 500K pot to make it 333 for a good middle ground.
+- Volume pot `RV4` is specified as a 333KΩ,  This is a reduction from the original 500K.  It sounds slightly smoother and less harsh.  Lots of single-coil pickup guitars use 250K for this reason.  There is a slight drop in overall volume but it is almost imperceptible.  I thought 250 was a bit too soft sounding, so added a 1MΩ resistor across the 500K pot to make it 333 for a good middle ground.
 
 - Treble tone capacitor is now .022 µF instead of .015 µF.  Just slightly more treble and mid roll off.
 
@@ -57,7 +57,7 @@ Also shown is the Electrosocket tele-style jack plate.
 
 `SW3` AxLabs 6-Lug toggle switch.  Nice looking toggle switch that can be wired as on-off-on.  And in black!  The superior alternative might be the Switchcraft model like this that is used for double-necks, but is too expensive for now.
 
-`SW4` Carling DPDT On/On for the direct-out/bypass switch.
+`SW4` Carling DPDT On/On for the "Firehose" (pickups direct to jack) switch.
 
 ### Knobs
 
