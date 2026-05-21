@@ -4,7 +4,7 @@
 &lt;p&gt;A few changes from before.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Volume pot &lt;code&gt;RV4&lt;/code&gt; is specified as a 333KΩ, This is a reduction from the original 500K. It sounds slightly smoother and less harsh. Lots of single-coil pickup guitars use 250K for this reason. There is a drop in volume but it almost imperceptible. I thought 250 was a bit too soft sounding, so added a 1MΩ resistor across the 500K pot to make it 333 for a good middle ground.&lt;/p&gt;
+&lt;p&gt;Volume pot &lt;code&gt;RV4&lt;/code&gt; is specified as a 333KΩ, This is a reduction from the original 500K. It sounds slightly smoother and less harsh. Lots of single-coil pickup guitars use 250K for this reason. There is a slight drop in overall volume but it is almost imperceptible. I thought 250 was a bit too soft sounding, so added a 1MΩ resistor across the 500K pot to make it 333 for a good middle ground.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Treble tone capacitor is now .022 µF instead of .015 µF. Just slightly more treble and mid roll off.&lt;/p&gt;
@@ -31,7 +31,7 @@
 &lt;p&gt;&lt;code&gt;RV3&lt;/code&gt; Tokyo Cosmos, 1 MΩ Audio-Taper, bass tone.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;RV4&lt;/code&gt; Tokyo Cosmos, 500 KΩ Linear-Taper, for the volume. I find linear taper for volume is more usable than audio taper. To me, they volume change is more continuous and no sudden spike or drop off.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;SW3&lt;/code&gt; AxLabs 6-Lug toggle switch. Nice looking toggle switch that can be wired as on-off-on. And in black! The superior alternative might be the Switchcraft model like this that is used for double-necks, but is too expensive for now.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;SW4&lt;/code&gt; Carling DPDT On/On for the direct-out/bypass switch.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SW4&lt;/code&gt; Carling DPDT On/On for the &amp;ldquo;Firehose&amp;rdquo; (pickups direct to jack) switch.&lt;/p&gt;
 &lt;h3 id="knobs"&gt;Knobs&lt;/h3&gt;
 &lt;p&gt;All black, solid aluminum knobs here. The 1/2 inch diameter are for the tone controls. This is smaller than usual, but I think still usable and fits the aesthetic. The volume is 3/4 inch, which is a bit more normal size.&lt;/p&gt;
 &lt;p&gt;I wonder if the lack of numbers will bother me. I do like to get a sound dialed in and being able to get it back by turning to a specific number. We will see.&lt;/p&gt;</description></item><item><title>Pickup Mounting</title><link>https://daebfcg.github.io/posts/202605200835/</link><pubDate>Wed, 20 May 2026 13:35:14 +0000</pubDate><guid>https://daebfcg.github.io/posts/202605200835/</guid><description>&lt;p&gt;My first attempt at mounting the pickups utilized #3 screws (humbucker mounting screws) directly into the wood. Machine screws do not hold firmly in wood, especially this small, so this did not work very well. I had planned to inset nuts into the top of the holes for the screws to grab, but insetting nuts this small and flush was not feasible.&lt;/p&gt;
