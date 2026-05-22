@@ -37,7 +37,9 @@ I have finally accumulated all the necessary components.  I tried to get the mos
 
 `C2` 1000 pF silver mica capacitor for the bass tone control.
 
-`C3` Pair of 750 pF silver micas to be used in parallel for the required .0015 µF  in the "Fuzz" tone.  I could not find a nice looking .0015 µF cap for this, so two half-size together works just a well.
+`C3` Pair of 750 pF silver micas to be used in parallel for the required .0015 µF  in the "Fuzz" tone.  I could not find a nice looking .0015 µF cap for this, so two half-size together works just asPs well.
+
+{{<imgresize capacitors.jpg "800x800" "Tone Capacitors">}}
 
 `C4` .33 µF, 630V blocking cap.  Just a run of the mill polyester metalized film.
 
@@ -51,9 +53,9 @@ Also shown is the Electrosocket tele-style jack plate.
 
 `RV2` Tokyo Cosmos, 500 KΩ Audio-Taper pot, for the treble tone.
 
-`RV3` Tokyo Cosmos, 1 MΩ Audio-Taper, bass tone.
+`RV3` Tokyo Cosmos, 1 MΩ Audio-Taper, for the bass tone.
 
-`RV4` Tokyo Cosmos, 500 KΩ Linear-Taper, for the volume.  I find linear taper for volume is more usable than audio taper. To me, they volume change is more continuous and no sudden spike or drop off.
+`RV4` Tokyo Cosmos, 500 KΩ Linear-Taper, for the volume.  I find linear taper for volume is more usable than audio taper. To me, the volume change is more continuous and no sudden spike or drop off.
 
 `SW3` AxLabs 6-Lug toggle switch.  Nice looking toggle switch that can be wired as on-off-on.  And in black!  The superior alternative might be the Switchcraft model like this that is used for double-necks, but is too expensive for now.
 
@@ -64,3 +66,5 @@ Also shown is the Electrosocket tele-style jack plate.
 All black, solid aluminum knobs here.  The 1/2 inch diameter are for the tone controls.  This is smaller than usual, but I think still usable and fits the aesthetic.  The volume is 3/4 inch, which is a bit more normal size.
 
 I wonder if the lack of numbers will bother me.  I do like to get a sound dialed in and being able to get it back by turning to a specific number.  We will see.
+
+The real issue is how to fit all this into the guitar.
