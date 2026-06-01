@@ -37,7 +37,7 @@ I have finally accumulated all the necessary components.  I tried to get the mos
 
 `C2` 1000 pF silver mica capacitor for the bass tone control.
 
-`C3` Pair of 750 pF silver micas to be used in parallel for the required .0015 µF  in the "Fuzz" tone.  I could not find a nice looking .0015 µF cap for this, so two half-size together works just asPs well.
+`C3` Pair of 750 pF silver micas to be used in parallel for the required .0015 µF in the "Fuzz" tone.  I could not find a nice looking .0015 µF cap for this, so two half-size together works just as well.
 
 I did not bother measuring these silver micas. They sound good.
 
