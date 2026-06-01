@@ -4,6 +4,7 @@
 {{ if $series }}
   {{ $pages := where .Site.RegularPages "Params.series" "intersect" $series }}
 
+    <span class="heading pr-6 leading-loose">{{index $series 0}}</span>
 
     <div class="flex flex-wrap justify-between pb-2 leading-loose font-serif">
         {{with $pages.Prev . }}
