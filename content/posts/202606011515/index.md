@@ -27,7 +27,7 @@ These were sawn apart into their respective blanks and disc-sanded to a consiste
 
 Why not just make them from a long dowel?  Because I want the tops to be side grain, not end grain.
 
-Next the pilot holes are drilled in the bottom center, and the holes in the sides for the set screws.  The set screw holes are 7/64 inch (and are 3/16 up from the bottom).
+Next the pilot holes are drilled in the bottom center, and the holes in the sides for the set screws.  The set screw holes are 7/64 inch (and are 5/16 up from the bottom).
 
 {{<imgresize pilot_holes.jpg "800x800" "Pilot holes">}}
 
