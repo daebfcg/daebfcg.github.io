@@ -1,11 +1,11 @@
 ---
-title: "Finishing"
+title: "Finishing the Guitar"
 date: "2026-06-04T20:33:04Z"
 cover: ""
-tags: []
+tags: ["finishing"]
 series: ["Electric Guitar Build 2025-2026"]
 keywords: []
-description: "Applying the shellac finish"
+description: "Applying the shellac"
 showFullContent: false
 readingTime: false
 draft: false
