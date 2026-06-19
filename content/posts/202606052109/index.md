@@ -11,7 +11,7 @@ readingTime: false
 draft: false
 ---
 
-The components were placed on the mdf template and the solder connections made.  The wiring was done if four phases.
+The components were placed on the mdf template and the solder connections made.  The wiring was done in four phases.
 
 1. Shield/Grounding (green wire)
 1. Signal connections (yellow wire)
