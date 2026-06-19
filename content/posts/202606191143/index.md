@@ -11,7 +11,7 @@ readingTime: false
 draft: false
 ---
 
-I first came across this when researching wiring two pickups in series.  I came across [this post on TDPRI](https://www.tdpri.com/threads/2-humbucker-series-wiring.953573/post-9121393) where a forum member shared their schematic titled "Kay Catalina 2-pickup modded".  The schematic shows an unusual, additional tone control labeled TAP that comes from the series-junction pin of the toggle switch.
+I first came across this when researching wiring two pickups in series.  I found [this post on TDPRI](https://www.tdpri.com/threads/2-humbucker-series-wiring.953573/post-9121393) where a forum member shared their schematic titled "Kay Catalina 2-pickup modded".  The schematic shows an unusual, additional tone control labeled TAP that comes from the series-junction pin of the toggle switch.
 
 I finally learned that this does the following, based on the toggle switch position:
 
