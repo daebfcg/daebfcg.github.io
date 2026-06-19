@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wiring on DAEBFCG</title><link>https://daebfcg.github.io/tags/wiring/</link><description>Recent content in Wiring on DAEBFCG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>/tags/wiring</copyright><lastBuildDate>Fri, 19 Jun 2026 16:43:12 +0000</lastBuildDate><atom:link href="https://daebfcg.github.io/tags/wiring/index.xml" rel="self" type="application/rss+xml"/><item><title>Mid Tone Control</title><link>https://daebfcg.github.io/posts/202606191143/</link><pubDate>Fri, 19 Jun 2026 16:43:12 +0000</pubDate><guid>https://daebfcg.github.io/posts/202606191143/</guid><description>&lt;p&gt;I first came across this when researching wiring two pickups in series. I found &lt;a href="https://www.tdpri.com/threads/2-humbucker-series-wiring.953573/post-9121393"&gt;this post on TDPRI&lt;/a&gt; where a forum member shared their schematic titled &amp;ldquo;Kay Catalina 2-pickup modded&amp;rdquo;. The schematic shows an unusual, additional tone control labeled TAP that comes from the series-junction pin of the toggle switch.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wiring on DAEBFCG</title><link>https://daebfcg.github.io/tags/wiring/</link><description>Recent content in Wiring on DAEBFCG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>/tags/wiring</copyright><lastBuildDate>Fri, 19 Jun 2026 16:43:12 +0000</lastBuildDate><atom:link href="https://daebfcg.github.io/tags/wiring/index.xml" rel="self" type="application/rss+xml"/><item><title>Mid Tone Control</title><link>https://daebfcg.github.io/posts/202606191143/</link><pubDate>Fri, 19 Jun 2026 16:43:12 +0000</pubDate><guid>https://daebfcg.github.io/posts/202606191143/</guid><description>&lt;h2 id="a-discovery"&gt;A discovery&lt;/h2&gt;
+&lt;p&gt;I stumbled upon this while researching wiring two pickups in series. I found &lt;a href="https://www.tdpri.com/threads/2-humbucker-series-wiring.953573/post-9121393"&gt;this post on TDPRI&lt;/a&gt; where a forum member shared their schematic titled &amp;ldquo;Kay Catalina 2-pickup modded&amp;rdquo;. The schematic shows an unusual, additional tone control labeled TAP that comes from the series-junction pin of the toggle switch.&lt;/p&gt;
 &lt;p&gt;I finally learned that this does the following, based on the toggle switch position:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Bridge Only - nothing&lt;/li&gt;
 &lt;li&gt;Center (pickups in series) - mid tone control&lt;/li&gt;
 &lt;li&gt;Neck Only - additional tone control&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;In fact, the above referenced post is the &lt;strong&gt;only&lt;/strong&gt; mention of this type of control I can find anywhere.&lt;/p&gt;
+&lt;h2 id="trying-it-out"&gt;Trying it out&lt;/h2&gt;
 &lt;p&gt;I was skeptical, but when I tried this it absolutely did act as a very useful mid tone control when the two pickups were in series. To me this actually makes the combined pickups usable. I usually find the center position the least favorable mode of all my 2-pickup guitars, regardless of them being series or parallel.&lt;/p&gt;
 &lt;p&gt;On my latest guitar with two single-coil pickups in series, the sound has a pronounced honky quack, i.e that classic, signature Stratocaster sound. Which can be good, but also not so good. With this mid control, I can reduce or completely dial out the quack and get new, cleaner sounds from the two pickups in series.&lt;/p&gt;
 &lt;p&gt;This control has turned out to be an indispensable feature of that guitar.&lt;/p&gt;
-&lt;h2 id="schematic"&gt;Schematic&lt;/h2&gt;
+&lt;h2 id="how-does-it-work"&gt;How does it work?&lt;/h2&gt;
 &lt;p&gt;In its most basic, stripped down form, the control is this:&lt;/p&gt;
 &lt;img src="https://daebfcg.github.io/posts/202606191143/lc_filter_hu_3958c31664c0283b.png" width="800" height="404" alt="Mid Tone Control"&gt;
 &lt;p&gt;A typical RC filter tone control but connected to the series junction of the two pickup coils.&lt;/p&gt;
@@ -82,7 +85,7 @@
 &lt;h2 id="additional-notes"&gt;Additional Notes&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;DPDT On-On-On Can be substituted for a SPDT On-Off-On. This is what I did on my guitar to get two pickups in series in the center position.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Installing Electronics</title><link>https://daebfcg.github.io/posts/202606052109/</link><pubDate>Sat, 06 Jun 2026 02:09:21 +0000</pubDate><guid>https://daebfcg.github.io/posts/202606052109/</guid><description>&lt;p&gt;The components were placed on the mdf template and the solder connections made. The wiring was done if four phases.&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>Installing Electronics</title><link>https://daebfcg.github.io/posts/202606052109/</link><pubDate>Sat, 06 Jun 2026 02:09:21 +0000</pubDate><guid>https://daebfcg.github.io/posts/202606052109/</guid><description>&lt;p&gt;The components were placed on the mdf template and the solder connections made. The wiring was done in four phases.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Shield/Grounding (green wire)&lt;/li&gt;
 &lt;li&gt;Signal connections (yellow wire)&lt;/li&gt;

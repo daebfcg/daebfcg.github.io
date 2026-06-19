@@ -7,7 +7,7 @@
 &lt;h3 id="tone-pot-pin-numbers"&gt;Tone Pot Pin Numbers&lt;/h3&gt;
 &lt;p&gt;Previous schematics had the tone pots flipped and the signal incorrectly going to pin 3, with pin 1 unused. Updated to show the correct wiring of signal to pin 1 on the tone pots with pin 3 unused. (&lt;code&gt;RV1&lt;/code&gt; and &lt;code&gt;RV2&lt;/code&gt;)&lt;/p&gt;
 &lt;h3 id="safety-coupler"&gt;Safety Coupler&lt;/h3&gt;
-&lt;p&gt;The shielding and user-touchable components to ground connection being made through a capacitor and resistor for shock prevention is now reflected on the schematic. (&lt;code&gt;R1&lt;/code&gt;, &lt;code&gt;C4&lt;/code&gt;)&lt;/p&gt;</description></item><item><title>Installing Electronics</title><link>https://daebfcg.github.io/posts/202606052109/</link><pubDate>Sat, 06 Jun 2026 02:09:21 +0000</pubDate><guid>https://daebfcg.github.io/posts/202606052109/</guid><description>&lt;p&gt;The components were placed on the mdf template and the solder connections made. The wiring was done if four phases.&lt;/p&gt;
+&lt;p&gt;The shielding and user-touchable components to ground connection being made through a capacitor and resistor for shock prevention is now reflected on the schematic. (&lt;code&gt;R1&lt;/code&gt;, &lt;code&gt;C4&lt;/code&gt;)&lt;/p&gt;</description></item><item><title>Installing Electronics</title><link>https://daebfcg.github.io/posts/202606052109/</link><pubDate>Sat, 06 Jun 2026 02:09:21 +0000</pubDate><guid>https://daebfcg.github.io/posts/202606052109/</guid><description>&lt;p&gt;The components were placed on the mdf template and the solder connections made. The wiring was done in four phases.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Shield/Grounding (green wire)&lt;/li&gt;
 &lt;li&gt;Signal connections (yellow wire)&lt;/li&gt;
