@@ -11,7 +11,9 @@ readingTime: false
 draft: false
 ---
 
-I first came across this when researching wiring two pickups in series.  I found [this post on TDPRI](https://www.tdpri.com/threads/2-humbucker-series-wiring.953573/post-9121393) where a forum member shared their schematic titled "Kay Catalina 2-pickup modded".  The schematic shows an unusual, additional tone control labeled TAP that comes from the series-junction pin of the toggle switch.
+## A discovery
+
+I stumbled upon this while researching wiring two pickups in series.  I found [this post on TDPRI](https://www.tdpri.com/threads/2-humbucker-series-wiring.953573/post-9121393) where a forum member shared their schematic titled "Kay Catalina 2-pickup modded".  The schematic shows an unusual, additional tone control labeled TAP that comes from the series-junction pin of the toggle switch.
 
 I finally learned that this does the following, based on the toggle switch position:
 
@@ -19,13 +21,17 @@ I finally learned that this does the following, based on the toggle switch posit
 - Center (pickups in series) - mid tone control
 - Neck Only - additional tone control
 
+In fact, the above referenced post is the **only** mention of this type of control I can find anywhere.
+
+## Trying it out
+
 I was skeptical, but when I tried this it absolutely did act as a very useful mid tone control when the two pickups were in series.  To me this actually makes the combined pickups usable.  I usually find the center position the least favorable mode of all my 2-pickup guitars, regardless of them being series or parallel.
 
 On my latest guitar with two single-coil pickups in series, the sound has a pronounced honky quack, i.e that classic, signature Stratocaster sound.  Which can be good, but also not so good.  With this mid control, I can reduce or completely dial out the quack and get new, cleaner sounds from the two pickups in series.
 
 This control has turned out to be an indispensable feature of that guitar.
 
-## Schematic
+## How does it work?
 
 In its most basic, stripped down form, the control is this:
 
