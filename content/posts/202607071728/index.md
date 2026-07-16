@@ -13,7 +13,7 @@ draft: false
 
 ## Starting Point
 
-This guitar neck starts out as a rough 1x3 +/- timber of black cherry _(Prunus serotina)_.
+This guitar neck starts out as a rough 1x2.25 +/- timber of black cherry _(Prunus serotina)_.
 
 {{<imgresize 00_blank.jpg "800x800" "Neck blank">}}
 
@@ -29,9 +29,9 @@ Planing reveals that it is mostly quartered and has nice medullary rays showing.
 
 ## Plan
 
-The timber is long enough so that the off-cut from the end can be used to build up the heel (stacked heel) with enough length for the body-joint tennon.
+The timber is long enough so that the off-cut from the end can be used to build up the heel (stacked heel) with enough length for the body-joint tenon.
 
-I am shooting for a 2" body depth, so the heel will need to be at least 2 inches deep.  The tennon needs to be at least 3" long to get a tight and wiggle-free neck joint.  The headstock in rough form needs to be at least 7 to 7.5 inches long.  Just enough length here to make the whole neck, heel, and headstock.
+I am shooting for a 2 inch body depth, so the heel will need to be close to 2 inches deep.  The heel cap will make up any difference.  The tenon needs to be at least 2.625" long to get a tight and wiggle-free neck joint.  The headstock in rough form needs to be at least 7 to 7.5 inches long.  Just enough length here to make the whole neck, heel, and headstock.
 
 {{<imgresize 04_layout.jpg "800x800" "Planning the neck">}}
 
@@ -40,7 +40,7 @@ At this stage, the location of the 0-fret is determined.  This is the key positi
 - the nut and headstock-to-neck break-angle point
 - enough length left in the headstock
 - the 14th fret neck-to-body joint
-- the 3-inch tennon end point
+- the 2.625 inch tenon end point
 - enough remaining off-cut for the stacked-heel
 - enough remaining off-cut for the headstock side extensions (ears)
 
@@ -100,7 +100,7 @@ Note that the CF bars extend into the headstock, providing extra rigidity in thi
 
 ## Heel
 
-Next, the heel end is cut off 3 inches past the 14th fret body-joint line, and stacked under to form the heel.  The extra 3 inches will form the tennon.
+Next, the heel end is cut off 3 inches past the 14th fret body-joint line, and stacked under to form the heel.  The extra 3 inches will form the tenon.
 
 {{<imgresize 15_heel_glue_up.jpg "800x800" "Stacked heel glue up">}}
 
@@ -112,41 +112,41 @@ Next a rough heel cap is glued to the bottom.  This is Persimmon, matching the f
 
 The extra length here is preserved for the headstock ears...
 
-## Tennon
+## Tenon
 
-Now the body joint and tennon are cut out.  The neck is set at a 3.5 degree angle to the body.  So the vertical cut for the body joint needs to be at this angle.  The cuts leave a 1 inch wide tennon that will extend into the mortice cut into the headblock in the body.
+Now the body joint and tenon are cut out.  The neck is set at a 3.5 degree angle to the body.  So the vertical cut for the body joint needs to be at this angle.  The cuts leave a 1 inch wide tenon that will extend into the mortice cut into the headblock in the body.
 
-{{<imgresize 19_tennon_plan.jpg "800x800" "Mapping out the tennon">}}
+{{<imgresize 19_tennon_plan.jpg "800x800" "Mapping out the tenon">}}
 
 {{<imgresize 18_tennon_plan.jpg "800x800" "Angle for the body joint">}}
 
-{{<imgresize 22_tennon_plan.jpg "800x800" "Tennon cut lines">}}
+{{<imgresize 22_tennon_plan.jpg "800x800" "Tenon cut lines">}}
 
 I clamped down a machinists square to guide my saw on this critical angle.
 
-{{<imgresize 20_tennon_end_cut.jpg "800x800" "Cutting the tennon ends">}}
+{{<imgresize 20_tennon_end_cut.jpg "800x800" "Cutting the tenon ends">}}
 
-The side cuts are made with a Douzuki dovetail saw, to just 1 inch deep on both sides.
+The side cuts are made with a Douzuki dovetail saw, leaving the 1 inch wide tenon in the center.
 
-{{<imgresize 21_tennon_end_cut.jpg "800x800" "Cutting the tennon ends">}}
+{{<imgresize 21_tennon_end_cut.jpg "800x800" "Cutting the tenon ends">}}
 
-The sides of the tennon are then sliced out on the bandsaw.  These side waste pieces are reserved for the headstock ears.
+The sides of the tenon are then sliced out on the bandsaw.  These side waste pieces are reserved for the headstock ears.
 
-{{<imgresize 23_tennon_sides_cut.jpg "800x800" "Cutting the tennon sides">}}
+{{<imgresize 23_tennon_sides_cut.jpg "800x800" "Cutting the tenon sides">}}
 
-And there is the rough tennon.
+And there is the rough tenon.
 
-{{<imgresize 24_tennon_cut_out.jpg "800x800" "Rough tennon cut out">}}
+{{<imgresize 24_tennon_cut_out.jpg "800x800" "Rough tenon cut out">}}
 
 The inner angles are cleaned up with a chisel.
 
-{{<imgresize 25_tennon_clean_up.jpg "800x800" "Tennon clean up">}}
+{{<imgresize 25_tennon_clean_up.jpg "800x800" "Tenon clean up">}}
 
-Now the tennon is trimmed to 3 inches long, also at the same 3.5 degree angle.
+Now the tenon is trimmed to 2.625 inches long, also at the same 3.5 degree angle.
 
-The horizontal cut line angles are also mapped out.  This will leave the top of tennon on the same plane as the top of the guitar body.  The extra heel cap wood will all be trimmed away once it is matched up with the body.
+The horizontal cut line angles are also mapped out.  This will leave the top of tenon on the same plane as the top of the guitar body.  The extra heel cap wood will all be trimmed away once it is matched up with the body.
 
-{{<imgresize 28_tennon_done.jpg "800x800" "Tennon done">}}
+{{<imgresize 28_tennon_done.jpg "800x800" "Tenon done">}}
 
 ## Headstock
 
