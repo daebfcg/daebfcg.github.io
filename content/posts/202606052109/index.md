@@ -28,7 +28,7 @@ A couple last-minute changes from the schematic:
 
 1.Instead of the "blocking capacitor" I found something that seems a bit better, [this guy](https://avjoy.biz/safety-circuit.html) which uses a 220k resistor and a .022 cap in parallel for shock prevention.  It is even mentioned in a Dan Erlewine book that I have, so it must be legit.
 
-## Grounding the Tokoy Cosmos pots and the Carling switches
+## Grounding the Tokyo Cosmos pots and the Carling switches
 
 To create a solid connection to the shielding ground (the user-touchable components) I added some homemade thin copper lugs to the bushings of the pots and switches that get wired to a single lug that is screwed into the side of the guitar into the shielding.  This lug is then attached to the signal ground at the jack via the aforementioned safety-connector.
 
