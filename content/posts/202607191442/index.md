@@ -5,7 +5,7 @@ cover: ""
 tags: ["wiring"]
 series: []
 keywords: []
-description: "Notes on the Switchcraft, DPTT, 3-position switch - How it works and potential uses"
+description: "Notes on the Switchcraft DPTT 3-position switch - How it works and potential uses"
 showFullContent: false
 readingTime: false
 draft: false
