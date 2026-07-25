@@ -39,6 +39,14 @@ draft: false
 - Maple neck
 - Tuners - Gotoh? Green anodized Sperzel?
 
+### Jaguar Inspired
+
+- 24 inch scale length
+- offset body
+- enhanced 2-circuit wiring
+- Walnut neck-through
+- Radiata pine? body (chambered?)
+
 ### Kay K-125 Peanut Inspired
 
 Good overview here: <https://jakewildwood.blogspot.com/2023/03/1950s-kay-k-125-peanut-electric-guitar.html>
