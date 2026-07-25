@@ -68,9 +68,17 @@ By itself (alone, or other pickup off), up or down are the same.  When combined 
 
 ---
 
-### Pickup Selector
+#### Series/Parallel switch
 
-{{<imgresize Pickup_Selector.png "400x400" "Pickup Selector">}}
+See [Mod Garage: Rewiring a Fender Mustang](https://www.premierguitar.com/mod-garage-rewiring-a-fender-mustang).  Technically, this could be done with a 2-position switch.  The implementation of this mod uses the existing switch in the guitar.
+
+---
+
+### Pickup Selection
+
+#### Parallel
+
+{{<imgresize Pickup_Selector_Parallel.png "400x400" "Pickup Selector (Parallel)">}}
 
 |**Position**|**Function**            |
 |------------|------------------------|
@@ -80,19 +88,110 @@ By itself (alone, or other pickup off), up or down are the same.  When combined 
 
 ---
 
-### Series/Parallel switch
+#### Series
 
-See [Mod Garage: Rewiring a Fender Mustang](https://www.premierguitar.com/mod-garage-rewiring-a-fender-mustang).  Technically, this could be done with a 2-position switch.  The implementation of this mod uses the existing switch in the guitar.
+{{<imgresize Pickup_Selector_Series.png "400x400" "Pickup Selector (Series)">}}
+
+|**Position**|**Function**            |
+|------------|------------------------|
+|Up          | L1 (neck) only         |
+|Center      | L1+L2, in series       |
+|Down        | L2 (bridge) only       |
 
 ---
 
-## Ideas
+#### Series + Mid Cut Switch
+
+Adds the option of having the [mid-cut effect]({{< ref "/posts/202606191143" >}}) when the two pickups are together in series.
+
+{{<imgresize Pickup_Selector_Series_MidCut.png "600x600" "Pickup Selector (Series) with Mid Cut">}}
+
+##### SW1
+
+|**Position**|**Function**            |
+|------------|------------------------|
+|Up          | L1 (neck) only         |
+|Center      | L1+L2, in series       |
+|Down        | L2 (bridge) only       |
+
+##### SW2
+
+|**Position**           |**Function**            |
+|-----------------------|------------------------|
+|Up (SW1:Center only)   | Mid Cut                |
+|Down                   | No Effect              |
+
+`C1` approx .022 µF
+
+---
+
+### Tone Effects
+
+#### Three-Level Treble EQ
+
+Choose from three tone caps.
+
+{{<imgresize Three_Level_Treble_Tone.png "400x400" "Three Level Treble Tone">}}
+
+|**Position**|**Function**            |
+|------------|------------------------|
+|Up          | Treble Cut via C1      |
+|Center      | Treble Cut via C2      |
+|Down        | Treble Cut via C3      |
+
+`C1`, `C2`, `C3` approx .01 to .05 µF
+
+`RV1` 500K Audio
+
+---
+
+#### Two-Level Bass Cut Switch
+
+Adds a capacitor in series with the signal to cut out some of the lower frequencies.
+
+Also known as the strangle-switch on Fender guitars. Good for removing the boom when playing quietly, or cleaning up mud from distortion and other effects.
+
+Three choices: No bass cut, less bass cut, more bass cut.
+
+{{<imgresize Bass_Cut_Switch.png "400x400" "Bass Cut Switch">}}
+
+|**Position**|**Function**            |
+|------------|------------------------|
+|Up          | No Effect              |
+|Center      | Bass Cut via C1        |
+|Down        | Bass Cut via C2        |
+
+`C1`, `C2` approx .001 to .0033 µF
+
+##### Note
+
+- Could be flipped so that `Down` is `off` to _increase_ the amount of effect as the switch is moved up.
+
+---
+
+#### Two-Level Treble Cut Switch
+
+Works by adding a capacitor to ground from the signal path, to cut high frequencies.  Intended to be used with smaller value caps to shave off just a bit of the top end, giving a [boosted resonant peak effect]({{< ref "posts/202605121328/" >}}).
+
+{{<imgresize Treble_Cut_Switch.png "400x400" "Treble Cut Switch">}}
+
+|**Position**|**Function**            |
+|------------|------------------------|
+|Up          | No Effect              |
+|Center      | Treble Cut via C1        |
+|Down        | Treble Cut via C2        |
+
+`C1`, `C2` approx .0015 to .005 µF
+
+---
+
+### Individual Pickup Selectors
 
 What follows are some ideas for this switch that I thought of in the context of having dedicated `on`/`something`/`off` switches for each individual pickup on a guitar, inspired by 60s Japanese guitars.
 
 To me it seems most intuitive to have the `off` position last.
 
-### Pickup: On, Half-Out-Of-Phase, Off
+#### On, Half-Out-Of-Phase, Off
 
 This is similar to the original Fender Mustang Phase Switch wiring above, except that it:
 
@@ -113,9 +212,7 @@ Again, note that the OoP effect happens when used in conjunction with another pi
 
 ---
 
-### Pickup: On, On + Treble Cut, Off
-
-Works by adding a capacitor to ground in parallel with the signal path, to cut high frequencies.  Intended to be used with a smaller value cap to shave off just a bit of the top end, giving a [boosted resonant peak effect]({{< ref "posts/202605121328/" >}}).
+#### On, On + Treble Cut, Off
 
 {{<imgresize Treble_Cut.png "400x400" "Treble Cut Switch">}}
 
@@ -129,9 +226,7 @@ Works by adding a capacitor to ground in parallel with the signal path, to cut h
 
 ---
 
-### Pickup: On, On + Bass Cut, Off
-
-In the center position, adds a capacitor in series with the signal to cut out some of the lower frequencies.
+#### On, On + Bass Cut, Off
 
 {{<imgresize Bass_Cut.png "400x400" "Bass Cut Switch">}}
 
@@ -145,7 +240,7 @@ In the center position, adds a capacitor in series with the signal to cut out so
 
 ---
 
-### Pickup: On, On + Mid Cut, Off
+#### On, On + Mid Cut, Off
 
 For when the pickup is **next** (i.e. not the first) in a **series** of pickups.  The [mid-cut effect]({{< ref "/posts/202606191143" >}}) relies the capacitor-to-ground being between two pickups in series.
 
@@ -161,7 +256,7 @@ For when the pickup is **next** (i.e. not the first) in a **series** of pickups.
 
 ---
 
-### Pickup: On (Full output), On (Tapped output), Off
+#### On (Full output), On (Tapped output), Off
 
 Useful for pickups with tapped outputs.  Order of modes goes from **most to least** output.
 
